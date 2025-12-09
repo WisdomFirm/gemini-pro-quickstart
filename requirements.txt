@@ -1,0 +1,11 @@
+# --- Core AI Dependencies ---
+# Library หลักสำหรับเชื่อมต่อ Google Gemini Pro
+google-generativeai>=0.4.0
+
+# --- Configuration & Security ---
+# ช่วยให้โหลด API Key จากไฟล์ .env ได้ (Best Practice ของ Security)
+python-dotenv>=1.0.0
+
+# --- Utilities (Optional but Recommended) ---
+# ช่วยจัดการเรื่อง Type hinting ให้โค้ดเสถียรขึ้น
+typing-extensions>=4.9.0
