@@ -51,7 +51,7 @@ Developed by [WisdomFirm](https://github.com/WisdomFirm).
 ## Example Output
 
 ```text
---- Generating content with Gemini Pro ---
+--- Generating content with Gemini Pro --- 
 
 Prompt: Write a short, inspirational quote about learning and technology.
 
