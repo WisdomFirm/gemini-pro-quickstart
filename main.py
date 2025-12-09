@@ -1,8 +1,12 @@
-```python
 import os
 import google.generativeai as genai
+from dotenv import load_dotenv  # <--- เพิ่มบรรทัดนี้
+
+# Load environment variables from a .env file (if present)
+load_dotenv() # <--- และเพิ่มบรรทัดนี้ก่อนเรียก os.environ
 
 def generate_content(prompt, model_name='gemini-pro'):
+ 
     """
     Generates content using the specified Google Gemini model.
 
