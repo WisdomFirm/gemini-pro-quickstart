@@ -60,9 +60,13 @@ This project is currently a **pre-release** version (`v0.1.0`). It is designed f
 ## Example Output
 
 ```text
---- Generating content with Gemini Pro --- 
+--- Generating content with Gemini Pro --- 
 
 Prompt: Write a short, inspirational quote about learning and technology.
+
+Response:
+"Technology is the brush, but learning is the art. Together, they paint a future limited only by our imagination."
+------------------------------------------
 ```
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
