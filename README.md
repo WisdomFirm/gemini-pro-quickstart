@@ -67,6 +67,5 @@ Prompt: Write a short, inspirational quote about learning and technology.
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Response:
-"Technology is the brush, but learning is the art. Together, they paint a future limited only by our imagination."
+ 
 ------------------------------------------
