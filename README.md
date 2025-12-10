@@ -8,6 +8,9 @@ A clean, production-ready **Python starter kit** to interact with Google's **Gem
 
 Developed by [WisdomFirm](https://github.com/WisdomFirm) for developers exploring LLM integration.
 
+ ## ⚠️ Development Notice (v0.1.0)
+This project is currently a **pre-release** version (`v0.1.0`). It is designed for **educational purposes** and rapid prototyping. Production implementation may require additional error handling and security measures.
+
  
 
 ## Prerequisites
